@@ -57,6 +57,7 @@ section.columna1_4 ul li a{
 	padding-left:0px; 
 	width: 100%;
 	float:left; 	
+ 	background-color: #9AD3A6 ;
 }
 
 .columna1_3{
@@ -367,7 +368,7 @@ img.float_right {
 }
 
 img.float_right:hover {
-    background-color: white ;
+    background-color: #9AD3A6 ;
 }
 footer img{
   margin-top: 2%;
